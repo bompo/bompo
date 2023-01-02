@@ -1,2 +1,2 @@
 
-website: [stefanwagner.dev](https://stefwanwagner.dev)
+website: [stefanwagner.dev](https://stefanwagner.dev)
